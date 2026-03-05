@@ -1,33 +1,19 @@
-<h2 aling="center"> Hello, I'm Gabriel </h2>
+<h2 align="center">👋 Hello, I'm Gabriel</h2>
 
-</hr>
+### 🔭 Things that I'm currently working on:
+* [Magiczne Karty](https://github.com/g-bialek/card_game_react) - TCG based card game in React
+<hr>
 
-<h2 align="left"> 🔭 Things that I'm currently working on: </h2>
+### 🤓 Things that I'm currently learning:
+* Data Bases (MySQL, Access, MongoDB)
+* Statistical Data Analysis - using Python (NumPy, Pandas)
+* Computer Graphics (OpenGL)
+<hr>
 
-
-
-<h2 align="left"> 🤓 Things that I'm currently learning: </h2>
-
-
-<!--
-
-## 🎓 My skills:
-
-
--->
-
-
-<!--
-**g-bialek/g-bialek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ My tech skills:
+  * Programming Languages: Python, Javascrpit, C++ (console and object-oriented), PHP
+  * Programming Languages (only baiscs): Swift, C# (.NET), Angular, C, Typescript
+  * Frontend Development: HTML5, CSS3, React
+  * Backend Developement: Node.js, express
+  * Databases: MySQL, SQLite
+  * Operating systems: Windows, Linux
