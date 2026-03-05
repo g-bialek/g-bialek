@@ -1,4 +1,20 @@
-## Hi there 👋
+<h2 aling="center"> Hello, I'm Gabriel </h2>
+
+</hr>
+
+## 🔭 Things that I'm currently working on:
+
+---
+
+## 🤓 Things that I'm currently learning:
+
+---
+
+## 🎓 My skills:
+
+
+
+
 
 <!--
 **g-bialek/g-bialek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
