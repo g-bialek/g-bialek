@@ -2,18 +2,19 @@
 
 </hr>
 
-## 🔭 Things that I'm currently working on:
+<h2 align="left"> 🔭 Things that I'm currently working on: </h2>
 
 
 
-## 🤓 Things that I'm currently learning:
+<h2 align="left"> 🤓 Things that I'm currently learning: </h2>
 
 
+<!--
 
 ## 🎓 My skills:
 
 
-
+-->
 
 
 <!--
